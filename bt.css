@@ -1,0 +1,25 @@
+.kg{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+    margin-top: 5%;
+    border: none;
+    border-color:pink;
+    font-weight: bold;
+    width: 200px;
+    height: 40px;
+    font-size: large;
+    border-radius: 5px;
+
+
+}
+.button:hover{
+    background-color: aqua;
+    transition: 0.3s;
+}
+.button:active{
+    background-color: black;
+}
+

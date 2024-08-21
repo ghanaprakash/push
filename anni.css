@@ -1,0 +1,19 @@
+.page{
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+    margin-bottom :20px;
+    border-style: solid;
+
+    border-width: 1px;
+    border-left:2px dotted red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 25%;
+    margin-left: 25%;
+    border-radius: 31px;
+    background-color: rgb(162, 127, 194);
+     opacity: 0.75;
+     font-style: italic;
+
+}
